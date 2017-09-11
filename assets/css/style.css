@@ -1,0 +1,46 @@
+.header{
+/*	height: 100px;*/
+	/*background-color: red;*/
+}
+
+.body{
+	/*background-color: blue;*/
+}
+
+.gifDiv {
+	display: inline-block;
+	margin: 5px;
+}
+
+#buttonholder{
+/*	height: 50px;*/
+	/*background-color: yellow;*/
+}
+
+#gifholder{
+	/*height: 75px;*/
+	/*background-color: cyan;*/
+	margin-bottom: 60px;
+}
+
+#genholder{
+	/*height: 75px;*/
+	/*background-color: magenta;*/
+	margin-bottom: 40px;
+}
+
+.gifPrev{
+	height: 175px;
+}
+
+.giflabel{
+	width: 150px;
+	margin:0;
+}
+/*.footer{
+	height:50px;
+	background-color: black;
+	position:fixed;
+	bottom:0;
+	width: 100%;
+}*/
